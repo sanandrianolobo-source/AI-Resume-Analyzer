@@ -1,0 +1,4 @@
+env/
+__pycache__/
+ats_database.db
+glove.6B.100d.txt
